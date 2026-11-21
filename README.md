@@ -49,3 +49,9 @@ Thank you for your interest in AcreetionOS Linux!
 ## Definitions:
 
 *Parallel Distribution: A distribution similar to, but having a different goal and future goal set.
+
+---
+
+## Credit
+
+HydrogenOS is an independent copy based on **AcreetionOS**. The source was copied on 2026-11-21 from [AcreetionOS-Code/acreetionos](https://github.com/AcreetionOS-Code/acreetionos). All credit for the original work goes to the AcreetionOS project and its contributors.
